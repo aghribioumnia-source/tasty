@@ -1,0 +1,9 @@
+globalThis.facebookURL = "https://www.facebook.com/ChefTimaRecipes/";
+globalThis.PinterestURL = "https://www.pinterest.com/ChefTimaRecipes/";
+globalThis.twitterURL = "https://twitter.com/ChefTimaRecipes";
+globalThis.redditURL = "https://www.reddit.com/user/ChefTimaRecipes";
+globalThis.siteUrl = 'http://www.topchefsrecipe.com';
+globalThis.homepageTitle = 'top chefs recipe';
+globalThis.homepageTagline = 'Des recettes simples pour tous les jours';
+globalThis.email = 'adresse e-mail';
+globalThis.copyright = '2023 - 2024 Pin Recipes. All rights reserved.';
