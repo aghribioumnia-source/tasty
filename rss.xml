@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Delicious Recipes Feed - Pinterest</title>
+    <link>http://www.topchefsrecipe.com/base.html</link>
+    <description>Fresh recipes and cooking inspiration for Pinterest discovery</description>
+    <language>en-US</language>
+    <copyright>© 2025 Recipe Collection</copyright>
+    <managingEditor></managingEditor>
+    <webMaster></webMaster>
+    <pubDate>Thu, 06 Nov 2025 00:39:21 +0100</pubDate>
+    <lastBuildDate>Thu, 06 Nov 2025 00:39:21 +0100</lastBuildDate>
+    <category>Food &amp; Cooking</category>
+    <generator>Recipe RSS Generator v2.0</generator>
+    <ttl>1440</ttl>
+    <atom:link href="http://www.topchefsrecipe.com/base.html/rss.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>http://www.topchefsrecipe.com/base.html/images/logo.png</url>
+      <title>Delicious Recipes Feed - Pinterest</title>
+      <link>http://www.topchefsrecipe.com/base.html</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <item>
+      <title>Sweet Potato and Chorizo Terrine</title>
+      <link>http://www.topchefsrecipe.com/base.html?page=recipe-detail&amp;recipe=sweet-potato-and-chorizo-terrine</link>
+      <description>This Sweet Potato and Chorizo Terrine is a vibrant and flavorful dish that combines the sweetness of roasted sweet potatoes with the spicy kick of chorizo. Perfect for impressing guests or enjoying a cozy night in, this recipe is sure to become a favorite. | ⏱️ Prep: 15min | Cook: 60min | Serves: 6 | #cat1761230072178 #mediumrecipe #recipe #cooking #foodie</description>
+      <pubDate>Thu, 06 Nov 2025 00:39:21 +0100</pubDate>
+      <guid isPermaLink="true">http://www.topchefsrecipe.com/base.html?page=recipe-detail&amp;recipe=sweet-potato-and-chorizo-terrine</guid>
+      <category>cat_1761230072_178</category>
+      <dc:creator>author_003</dc:creator>
+      <content:encoded><![CDATA[<div class="recipe-content" style="font-family: Arial, sans-serif; max-width: 600px;"><img src="http://www.topchefsrecipe.com/recipes/sweet-potato-and-chorizo-terrine/images/sweet-potato-and-chorizo-terrine_image_4.webp" alt="Sweet Potato and Chorizo Terrine" style="width:100%;max-width:600px;height:auto;border-radius:8px;margin-bottom:20px;"><div style="background:#f8f9fa;padding:15px;border-radius:8px;margin-bottom:20px;"><p style="margin:5px 0;"><strong>⏱️ Prep Time:</strong> 15 minutes</p><p style="margin:5px 0;"><strong>🍳 Cook Time:</strong> 60 minutes</p><p style="margin:5px 0;"><strong>⏰ Total Time:</strong> 75 minutes</p><p style="margin:5px 0;"><strong>🍽️ Servings:</strong> 6</p><p style="margin:5px 0;"><strong>📊 Difficulty:</strong> Medium</p></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">🥘 Ingredients</h3><ul style="line-height:1.8;"><li>2 large sweet potatoes, peeled and cubed</li><li>200 grams chorizo, diced</li><li>2 tablespoons olive oil</li><li>1 onion, finely chopped</li><li>2 cloves garlic, minced</li><li>4 eggs</li><li>Salt and pepper to taste</li><li>Fresh herbs for garnish</li></ul></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">👩‍🍳 Instructions</h3><ol style="line-height:1.8;"><li>Preheat the oven to 375°F (190°C).</li><li>Boil the sweet potatoes in salted water until tender, about 15 minutes. Drain and mash.</li><li>In a skillet, heat olive oil over medium heat. Add onion and garlic, sauté until soft.</li><li>Add chorizo to the skillet and cook until browned.</li><li>In a large bowl, combine mashed sweet potatoes, chorizo mixture, and eggs. Season with salt and pepper.</li><li>Pour the mixture into a greased terrine mold or loaf pan.</li><li>Bake for 45 minutes or until set. Let cool slightly before slicing.</li></ol></div><div style="background:#fff3f3;padding:15px;border-radius:8px;border-left:4px solid #E60023;"><p><strong>📌 Pinterest Tags:</strong> #cat1761230072178 #mediumrecipe #recipe #cooking #foodie #homemade #delicious #large #chorizo #olive</p></div><div style="text-align:center;margin-top:30px;padding:20px;background:#E60023;color:white;border-radius:8px;"><p style="margin:0;"><strong>📌 Save this recipe to Pinterest!</strong></p><p style="margin:5px 0 0 0;">Perfect for meal planning and sharing with friends</p></div></div>]]></content:encoded>
+      <media:content url="http://www.topchefsrecipe.com/recipes/sweet-potato-and-chorizo-terrine/images/sweet-potato-and-chorizo-terrine_image_4.webp" medium="image" type="image/webp">
+        <media:title>Sweet Potato and Chorizo Terrine</media:title>
+        <media:description>This Sweet Potato and Chorizo Terrine is a vibrant and flavorful dish that combines the sweetness of roasted sweet potatoes with the spicy kick of chorizo. Perfect for impressing guests or enjoying a cozy night in, this recipe is sure to become a favorite.</media:description>
+      </media:content>
+      <media:group>
+        <media:category>recipe</media:category>
+        <media:keywords>cat1761230072178, mediumrecipe, recipe, cooking, foodie, homemade, delicious, large, chorizo, olive</media:keywords>
+      </media:group>
+    </item>
+    <item>
+      <title>Elegant Turkey Liver Mousse with Cranberry Gelée</title>
+      <link>http://www.topchefsrecipe.com/base.html?page=recipe-detail&amp;recipe=elegant-turkey-liver-mousse-with-cranberry-gel-e</link>
+      <description>Indulge in the rich and creamy texture of our Elegant Turkey Liver Mousse paired with a vibrant cranberry gelée. This delightful dish is perfect for family gatherings, offering a beautiful presentation and a comforting flavor that everyone will love. | ⏱️ Prep: 15min | Cook: 30min | Serves: 4 | #cat1761230383494 #mediumrecipe #1hourmeals #recipe #cooking</description>
+      <pubDate>Thu, 06 Nov 2025 00:03:25 +0100</pubDate>
+      <guid isPermaLink="true">http://www.topchefsrecipe.com/base.html?page=recipe-detail&amp;recipe=elegant-turkey-liver-mousse-with-cranberry-gel-e</guid>
+      <category>cat_1761230383_494</category>
+      <dc:creator>author_003</dc:creator>
+      <content:encoded><![CDATA[<div class="recipe-content" style="font-family: Arial, sans-serif; max-width: 600px;"><img src="http://www.topchefsrecipe.com/" alt="Elegant Turkey Liver Mousse with Cranberry Gelée" style="width:100%;max-width:600px;height:auto;border-radius:8px;margin-bottom:20px;"><div style="background:#f8f9fa;padding:15px;border-radius:8px;margin-bottom:20px;"><p style="margin:5px 0;"><strong>⏱️ Prep Time:</strong> 15 minutes</p><p style="margin:5px 0;"><strong>🍳 Cook Time:</strong> 30 minutes</p><p style="margin:5px 0;"><strong>⏰ Total Time:</strong> 45 minutes</p><p style="margin:5px 0;"><strong>🍽️ Servings:</strong> 4</p><p style="margin:5px 0;"><strong>📊 Difficulty:</strong> Medium</p></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">🥘 Ingredients</h3><ul style="line-height:1.8;"><li>1 pound turkey liver, cleaned and trimmed</li><li>1 small onion, finely chopped</li><li>2 tablespoons unsalted butter, softened</li><li>1/4 cup heavy cream</li><li>1 tablespoon brandy (optional)</li><li>Salt and black pepper to taste</li><li>2 cups fresh or frozen cranberries</li><li>1/2 cup sugar</li><li>1 cup water</li><li>1/2 teaspoon gelatin powder (dissolved in 2 tablespoons warm water)</li></ul></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">👩‍🍳 Instructions</h3><ol style="line-height:1.8;"><li>In a skillet over medium heat, melt the unsalted butter. Sauté the chopped onion until it's translucent, about 5 minutes. Add the cleaned turkey liver and cook until browned and cooked through, around 8-10 minutes.</li><li>Transfer the cooked liver to a food processor. Add the heavy cream, brandy (if using), and season with salt and black pepper. Blend until smooth and creamy.</li><li>Spoon the mousse into serving dishes or ramekins and cover with plastic wrap. Refrigerate for at least 3 hours, or until set.</li><li>In a saucepan, combine the cranberries, sugar, and water. Bring to a boil, then reduce to a simmer, stirring occasionally until the cranberries burst, about 10 minutes. Let it cool slightly before adding the dissolved gelatin.</li><li>Once the gelée is at room temperature, pour it over the set mousse in the ramekins. Return to the fridge for another hour to firm up.</li></ol></div><div style="background:#fff3f3;padding:15px;border-radius:8px;border-left:4px solid #E60023;"><p><strong>📌 Pinterest Tags:</strong> #cat1761230383494 #mediumrecipe #1hourmeals #recipe #cooking #foodie #homemade #delicious #pound #small #unsalted</p></div><div style="text-align:center;margin-top:30px;padding:20px;background:#E60023;color:white;border-radius:8px;"><p style="margin:0;"><strong>📌 Save this recipe to Pinterest!</strong></p><p style="margin:5px 0 0 0;">Perfect for meal planning and sharing with friends</p></div></div>]]></content:encoded>
+      <media:content url="http://www.topchefsrecipe.com/" medium="image" type="image/webp">
+        <media:title>Elegant Turkey Liver Mousse with Cranberry Gelée</media:title>
+        <media:description>Indulge in the rich and creamy texture of our Elegant Turkey Liver Mousse paired with a vibrant cranberry gelée. This delightful dish is perfect for family gatherings, offering a beautiful presentation and a comforting flavor that everyone will love.</media:description>
+      </media:content>
+      <media:group>
+        <media:category>recipe</media:category>
+        <media:keywords>cat1761230383494, mediumrecipe, 1hourmeals, recipe, cooking, foodie, homemade, delicious, pound, small, unsalted</media:keywords>
+      </media:group>
+    </item>
+  </channel>
+</rss>

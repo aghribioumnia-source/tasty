@@ -217,7 +217,7 @@ nav.nav a img {
 }
 
 .nav a svg path, .social-links svg path {
-    fill: #ff6d4d;
+    fill: #b75061;
 }
 
 .nav a svg {
@@ -1389,7 +1389,7 @@ nav.nav a img {
             border-radius: 8px;
             padding: 15px;
             margin: 20px 0;
-            border-left: 4px solid #ff6d4d;
+            border-left: 4px solid #b75061;
         }
 
         .entry__body p {
@@ -1458,7 +1458,7 @@ nav.nav a img {
 
         .entry__footer-link, .entry__footer-like, .note-label {
             text-decoration: none;
-            color: #ff6d4d;
+            color: #b75061;
         }
 
         .entry__footer-link {
@@ -1691,7 +1691,7 @@ nav.nav a img {
 
                 .content-section strong {
                     font-weight: 600;
-                    color: var(--accent, #ff6d4d);
+                    color: var(--accent, #b75061);
                 }
 
                 .section-headline {
@@ -1709,7 +1709,7 @@ nav.nav a img {
                     border-radius: 8px;
                     padding: 15px;
                     margin: 20px 0;
-                    border-left: 4px solid #ff6d4d;
+                    border-left: 4px solid #b75061;
                 }
 
                 .note-label {
@@ -1932,7 +1932,7 @@ nav.nav a img {
                 }
 
                 .section-title {
-                    background: #ff6d4d;
+                    background: #b75061;
                     color: white;
                     padding: 12px 20px;
                     margin: 0;                    
@@ -2122,7 +2122,7 @@ nav.nav a img {
 }
 
 .team-member:hover .member-image img {
-    border-color: #ff6d4d;
+    border-color: #b75061;
 }
 
 .member-name {
@@ -2135,7 +2135,7 @@ nav.nav a img {
 .member-title {
     font-size: 1em;
     font-weight: 600;
-    color: #ff6d4d;
+    color: #b75061;
     margin: 0 0 12px 0;
 }
 
@@ -2164,7 +2164,7 @@ nav.nav a img {
 }
 
 .social-link:hover {
-    background: #ff6d4d;
+    background: #b75061;
     transform: scale(1.1);
 }
 

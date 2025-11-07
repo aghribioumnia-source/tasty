@@ -1,0 +1,159 @@
+{
+    "id": "recipe_1762385961_689",
+    "slug": "sweet-potato-and-chorizo-terrine",
+    "title": "Sweet Potato and Chorizo Terrine",
+    "promptIMG": "Sweet Potato and Chorizo Terrine, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": true,
+    "description": "This Sweet Potato and Chorizo Terrine is a vibrant and flavorful dish that combines the sweetness of roasted sweet potatoes with the spicy kick of chorizo. Perfect for impressing guests or enjoying a cozy night in, this recipe is sure to become a favorite.",
+    "category_id": "cat_1761230072_178",
+    "author_id": "author_003",
+    "ingredients": [
+        "2 large sweet potatoes, peeled and cubed",
+        "200 grams chorizo, diced",
+        "2 tablespoons olive oil",
+        "1 onion, finely chopped",
+        "2 cloves garlic, minced",
+        "4 eggs",
+        "Salt and pepper to taste",
+        "Fresh herbs for garnish"
+    ],
+    "instructions": [
+        "Preheat the oven to 375°F (190°C).",
+        "Boil the sweet potatoes in salted water until tender, about 15 minutes. Drain and mash.",
+        "In a skillet, heat olive oil over medium heat. Add onion and garlic, sauté until soft.",
+        "Add chorizo to the skillet and cook until browned.",
+        "In a large bowl, combine mashed sweet potatoes, chorizo mixture, and eggs. Season with salt and pepper.",
+        "Pour the mixture into a greased terrine mold or loaf pan.",
+        "Bake for 45 minutes or until set. Let cool slightly before slicing."
+    ],
+    "prep_time": 15,
+    "cook_time": 60,
+    "total_time": 75,
+    "servings": 6,
+    "difficulty": "medium",
+    "tips": "For a perfect terrine, ensure the sweet potatoes are well mashed and the mixture is not too wet before baking.",
+    "structured_content": [
+        {
+            "content": "<p>This Sweet Potato and Chorizo Terrine is not just a dish; it's a celebration of flavors and textures. The creamy sweetness of the sweet potatoes pairs beautifully with the spicy, smoky notes of chorizo, creating a dish that's both comforting and exciting. Perfect for gatherings or a special family dinner, this terrine is sure to impress.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 1 hour<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for entertaining or special occasions<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Can be made ahead and served cold or warm<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Every time I make this terrine, I am reminded of family gatherings where we would share delicious meals together. The combination of sweet and spicy flavors brings back warm memories and creates new ones with each bite.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Sweet potatoes provide a natural sweetness and creamy texture, making them the perfect base for this dish. Choose firm, unblemished potatoes for the best results.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Chorizo adds a spicy kick; look for high-quality, flavorful varieties.<\/li><li><strong>Supporting ingredients:<\/strong> Onion and garlic enhance the overall flavor profile, while eggs help bind the mixture.<\/li><li><strong>Equipment needed:<\/strong> A terrine mold or loaf pan is essential for shaping the dish.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A vibrant display of the ingredients prepared for the Sweet Potato and Chorizo Terrine, showcasing the colorful sweet potatoes and diced chorizo.",
+                "url": "sweet-potato-and-chorizo-terrine\/images\/sweet-potato-and-chorizo-terrine_image_1.webp",
+                "fileName": "sweet-potato-and-chorizo-terrine_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by peeling and cubing the sweet potatoes, then boil them until tender. While they are cooking, prepare the chorizo mixture in a skillet.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Mix the mashed sweet potatoes with the chorizo and eggs, then pour into a mold and bake until set.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Let the terrine cool slightly before slicing. Garnish with fresh herbs for a beautiful presentation.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "A step-by-step visual guide to the cooking process of the Sweet Potato and Chorizo Terrine, highlighting the vibrant colors and textures.",
+                "url": "sweet-potato-and-chorizo-terrine\/images\/sweet-potato-and-chorizo-terrine_image_2.webp",
+                "fileName": "sweet-potato-and-chorizo-terrine_image_2.webp",
+                "type": "main"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Ensure the sweet potatoes are well-drained to avoid a soggy terrine.<\/li><li>A common mistake is overcooking the chorizo; it should be browned but not dry.<\/li><li>The terrine is ready when it is firm to the touch and a toothpick comes out clean.<\/li><li>Store leftovers in the fridge for up to 3 days; reheat gently in the oven.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This dish is special to me because it brings everyone together around the table, sharing laughter and stories. It's a dish that sparks joy and connection.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding fresh herbs like cilantro or parsley for a burst of freshness. A sprinkle of smoked paprika can enhance the smoky flavor of the chorizo.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This terrine pairs beautifully with a simple green salad and a light vinaigrette. A glass of chilled white wine complements the flavors perfectly.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a vegetarian option, substitute the chorizo with sautéed mushrooms and add some smoked paprika for flavor. This dish can also be made gluten-free by ensuring all ingredients are certified gluten-free.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A stunning final presentation of the Sweet Potato and Chorizo Terrine, beautifully plated and garnished.",
+                "url": "sweet-potato-and-chorizo-terrine\/images\/sweet-potato-and-chorizo-terrine_image_3.webp",
+                "fileName": "sweet-potato-and-chorizo-terrine_image_3.webp",
+                "type": "main"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For a restaurant-quality finish, let the terrine rest before slicing to ensure clean edges.<\/li><li>Use fresh, high-quality ingredients for maximum flavor.<\/li><li>Timing is key; keep an eye on the baking process to prevent overcooking.<\/li><li>Garnish with a drizzle of olive oil for an elegant touch.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this recipe! It's a delightful dish that will fill your home with wonderful aromas and create lasting memories. Enjoy the process and the delicious results!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "sweet-potato-and-chorizo-terrine_image_1.webp",
+            "filePath": "recipes\/sweet-potato-and-chorizo-terrine\/images\/sweet-potato-and-chorizo-terrine_image_1.webp",
+            "relativePath": "sweet-potato-and-chorizo-terrine\/images\/sweet-potato-and-chorizo-terrine_image_1.webp",
+            "originalUrl": "https:\/\/cdn.midjourney.com\/51cbf771-ae4e-401a-86b5-c060d009f783\/0_2.png",
+            "order": 1
+        },
+        {
+            "fileName": "sweet-potato-and-chorizo-terrine_image_2.webp",
+            "filePath": "recipes\/sweet-potato-and-chorizo-terrine\/images\/sweet-potato-and-chorizo-terrine_image_2.webp",
+            "relativePath": "sweet-potato-and-chorizo-terrine\/images\/sweet-potato-and-chorizo-terrine_image_2.webp",
+            "originalUrl": "https:\/\/cdn.midjourney.com\/51cbf771-ae4e-401a-86b5-c060d009f783\/0_1.png",
+            "order": 2
+        },
+        {
+            "fileName": "sweet-potato-and-chorizo-terrine_image_3.webp",
+            "filePath": "recipes\/sweet-potato-and-chorizo-terrine\/images\/sweet-potato-and-chorizo-terrine_image_3.webp",
+            "relativePath": "sweet-potato-and-chorizo-terrine\/images\/sweet-potato-and-chorizo-terrine_image_3.webp",
+            "originalUrl": "https:\/\/cdn.midjourney.com\/51cbf771-ae4e-401a-86b5-c060d009f783\/0_0.png",
+            "order": 3
+        },
+        {
+            "fileName": "sweet-potato-and-chorizo-terrine_image_4.webp",
+            "filePath": "recipes\/sweet-potato-and-chorizo-terrine\/images\/sweet-potato-and-chorizo-terrine_image_4.webp",
+            "relativePath": "sweet-potato-and-chorizo-terrine\/images\/sweet-potato-and-chorizo-terrine_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/tasty\/recipes\/sweet-potato-and-chorizo-terrine\/images\/sweet-potato-and-chorizo-terrine_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "sweet-potato-and-chorizo-terrine_image_1.webp",
+    "image_path": "recipes\/sweet-potato-and-chorizo-terrine\/images\/sweet-potato-and-chorizo-terrine_image_1.webp",
+    "image_dir": "sweet-potato-and-chorizo-terrine\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-06T00:39:21+01:00",
+    "updatedAt": "2025-11-06T00:39:21+01:00"
+}
