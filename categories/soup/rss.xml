@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>soup Recipes - RSS Feed</title>
+    <link>http://www.lovelyhomerecipes.com/base.html</link>
+    <description>Fresh soup recipes and cooking inspiration</description>
+    <language>en-US</language>
+    <copyright>© 2025 www.lovelyhomerecipes.com</copyright>
+    <managingEditor>contact@lovelyhomerecipes.com</managingEditor>
+    <webMaster>contact@lovelyhomerecipes.com</webMaster>
+    <pubDate>Sat, 08 Nov 2025 01:33:02 +0100</pubDate>
+    <lastBuildDate>Sat, 08 Nov 2025 01:33:02 +0100</lastBuildDate>
+    <category>soup</category>
+    <generator>Recipes - RSS Feed www.lovelyhomerecipes.com</generator>
+    <ttl>60</ttl>
+    <atom:link href="http://www.lovelyhomerecipes.com/base.html/rss.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>http://www.lovelyhomerecipes.com/base.html/images/logo.png</url>
+      <title>soup Recipes - RSS Feed</title>
+      <link>http://www.lovelyhomerecipes.com/base.html</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <item>
+      <title>Sweet Potato and Chorizo Terrine</title>
+      <link>http://www.lovelyhomerecipes.com/base.html?page=recipe-detail&amp;recipe=sweet-potato-and-chorizo-terrine</link>
+      <description>This Sweet Potato and Chorizo Terrine is a vibrant and flavorful dish that combines the sweetness of roasted sweet potatoes with the spicy kick of chorizo. Perfect for impressing guests or enjoying a cozy night in, this recipe is sure to become a favorite.</description>
+      <pubDate>Sat, 08 Nov 2025 01:17:44 +0100</pubDate>
+      <guid isPermaLink="true">http://www.lovelyhomerecipes.com/base.html?page=recipe-detail&amp;recipe=sweet-potato-and-chorizo-terrine</guid>
+      <category>cat_1762383245_782</category>
+      <dc:creator>author_003</dc:creator>
+      <content:encoded><![CDATA[<div class="recipe-content" style="font-family: Arial, sans-serif; max-width: 600px;"><img src="http://www.lovelyhomerecipes.com/recipes/sweet-potato-and-chorizo-terrine/images/sweet-potato-and-chorizo-terrine_image_4.webp" alt="Sweet Potato and Chorizo Terrine" style="width:100%;max-width:600px;height:auto;border-radius:8px;margin-bottom:20px;"><div style="background:#f8f9fa;padding:15px;border-radius:8px;margin-bottom:20px;"><p style="margin:5px 0;"><strong>⏱️ Prep Time:</strong> 15 minutes</p><p style="margin:5px 0;"><strong>🍳 Cook Time:</strong> 60 minutes</p><p style="margin:5px 0;"><strong>⏰ Total Time:</strong> 75 minutes</p><p style="margin:5px 0;"><strong>🍽️ Servings:</strong> 6</p><p style="margin:5px 0;"><strong>📊 Difficulty:</strong> Medium</p></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">🥘 Ingredients</h3><ul style="line-height:1.8;"><li>2 large sweet potatoes, peeled and cubed</li><li>200 grams chorizo, diced</li><li>2 tablespoons olive oil</li><li>1 onion, finely chopped</li><li>2 cloves garlic, minced</li><li>4 eggs</li><li>Salt and pepper to taste</li><li>Fresh herbs for garnish</li></ul></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">👩‍🍳 Instructions</h3><ol style="line-height:1.8;"><li>Preheat the oven to 375°F (190°C).</li><li>Boil the sweet potatoes in salted water until tender, about 15 minutes. Drain and mash.</li><li>In a skillet, heat olive oil over medium heat. Add onion and garlic, sauté until soft.</li><li>Add chorizo to the skillet and cook until browned.</li><li>In a large bowl, combine mashed sweet potatoes, chorizo mixture, and eggs. Season with salt and pepper.</li><li>Pour the mixture into a greased terrine mold or loaf pan.</li><li>Bake for 45 minutes or until set. Let cool slightly before slicing.</li></ol></div><div style="background:#fff3f3;padding:15px;border-radius:8px;border-left:4px solid #E60023;"><p><strong>📌 Pinterest Tags:</strong> #cat1762383245782 #mediumrecipe #recipe #cooking #foodie #homemade #delicious #large #chorizo #olive</p></div><div style="text-align:center;margin-top:30px;padding:20px;background:#E60023;color:white;border-radius:8px;"><p style="margin:0;"><strong>📌 Save this recipe to Pinterest!</strong></p><p style="margin:5px 0 0 0;">Perfect for meal planning and sharing with friends</p></div></div>]]></content:encoded>
+      <media:content url="http://www.lovelyhomerecipes.com/recipes/sweet-potato-and-chorizo-terrine/images/sweet-potato-and-chorizo-terrine_image_4.webp" medium="image" type="image/webp">
+        <media:title>Sweet Potato and Chorizo Terrine</media:title>
+        <media:description>This Sweet Potato and Chorizo Terrine is a vibrant and flavorful dish that combines the sweetness of roasted sweet potatoes with the spicy kick of chorizo. Perfect for impressing guests or enjoying a cozy night in, this recipe is sure to become a favorite.</media:description>
+      </media:content>
+      <media:group>
+        <media:category>recipe</media:category>
+        <media:keywords>cat1762383245782, mediumrecipe, recipe, cooking, foodie, homemade, delicious, large, chorizo, olive</media:keywords>
+      </media:group>
+    </item>
+  </channel>
+</rss>
