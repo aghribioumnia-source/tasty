@@ -1,0 +1,160 @@
+{
+    "id": "recipe_1762726321_597",
+    "slug": "flaky-crescent-roll-cinnamon-twists",
+    "title": "Flaky Crescent Roll Cinnamon Twists",
+    "promptIMG": "Flaky Crescent Roll Cinnamon Twists, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Delight in the sophisticated layers of Flaky Crescent Roll Cinnamon Twists—a refined treat that marries familiar comfort with an elevated twist. Perfect for gatherings or a leisurely afternoon tea, these twists offer a delightful visual appeal and a symphony of flavor with each bite.",
+    "category_id": "cat_1762383245_782",
+    "author_id": "author_003",
+    "ingredients": [
+        "2 cans refrigerated crescent rolls",
+        "1/4 cup unsalted butter, melted",
+        "1/2 cup brown sugar, lightly packed",
+        "1 tablespoon ground cinnamon",
+        "Pinch of sea salt",
+        "1/2 cup powdered sugar (optional)",
+        "2 tablespoons milk (or cream for added richness, optional)",
+        "1/2 teaspoon vanilla extract (optional)"
+    ],
+    "instructions": [
+        "Preheat your oven to 375°F (190°C) and line a baking sheet with parchment paper.",
+        "Unroll the crescent rolls into triangles on a clean surface, ensuring they do not tear.",
+        "In a small bowl, mix the brown sugar, cinnamon, and sea salt until well blended.",
+        "Brush each triangle with melted butter, then sprinkle the cinnamon filling evenly across the surface. Starting from the wide end, gently roll each triangle into a twist, forming a spiral shape.",
+        "Arrange the twists on your prepared baking sheet, leaving space between each for even baking.",
+        "Bake in the preheated oven for 12-15 minutes until golden brown and fragrant.",
+        "While the twists are baking, whisk together powdered sugar, milk, and vanilla in a small bowl until smooth.",
+        "Once the twists are out of the oven and slightly cooled, drizzle the glaze over the top for a touch of elegance."
+    ],
+    "prep_time": 15,
+    "cook_time": 15,
+    "total_time": 30,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "Chill the dough to achieve a flakier texture when baked. Consider adding chopped nuts or raisins to the filling for added texture and flavor complexity.",
+    "structured_content": [
+        {
+            "content": "<p>Flaky Crescent Roll Cinnamon Twists are a delightful treat that combines the comforting flavors of cinnamon and sugar with the light, flaky texture of crescent rolls. Each twist is a perfect bite-sized indulgence, making them ideal for any occasion, from casual family gatherings to elegant tea parties.</p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Effortless yet elegant, impressing guests with minimal effort.</li><li>Utilizes pantry staples to create a luxurious dessert.</li><li>Contrasting textures of flaky pastry and buttery filling create a delightful experience.</li><li>Perfect for gatherings or a leisurely afternoon tea.</li><li>Offers a refined presentation and a lighter, flakier texture than ordinary cinnamon rolls.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>These twists remind me of cozy afternoons spent with family, enjoying warm pastries fresh from the oven. The aroma of cinnamon wafting through the house always brings back fond memories of laughter and togetherness.</p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:</strong> Refrigerated crescent rolls are perfect for creating flaky layers without the fuss of homemade dough.</li><li><strong>Key seasonings/flavoring agents:</strong> Brown sugar and cinnamon are essential for that classic flavor profile.</li><li><strong>Supporting ingredients:</strong> Butter adds richness, while the optional glaze elevates the presentation.</li><li><strong>Equipment needed:</strong> Baking sheet, parchment paper, and mixing bowls for easy preparation.</li></ul>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the ingredients preparation.",
+                "url": "flaky-crescent-roll-cinnamon-twists/images/flaky-crescent-roll-cinnamon-twists_image_1.webp",
+                "fileName": "flaky-crescent-roll-cinnamon-twists_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:</strong></dt><dd>Preheat the oven and prepare the baking sheet. Unroll the crescent rolls carefully to avoid tearing.</dd><dt><strong>Cooking/Baking Process:</strong></dt><dd>Assemble the twists by brushing with butter, adding the filling, and rolling them up. Bake until golden brown.</dd><dt><strong>Finishing Touches:</strong></dt><dd>Drizzle with glaze for an elegant finish once the twists have cooled slightly.</dd></dl>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the cooking process.",
+                "url": "flaky-crescent-roll-cinnamon-twists/images/flaky-crescent-roll-cinnamon-twists_image_2.webp",
+                "fileName": "flaky-crescent-roll-cinnamon-twists_image_2.webp",
+                "type": "main"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Chilling the dough helps achieve a flakier texture.</li><li>Prevent sogginess by allowing twists to cool before covering.</li><li>Look for a golden brown color as a cue that they are ready.</li><li>Store in an airtight container at room temperature for up to 2 days.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing these twists with friends during a cozy gathering always brings joy. The smiles on their faces as they take their first bite make the effort worthwhile.</p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Elevate your twists by adding chopped nuts or raisins to the filling. Experiment with spices like nutmeg or cardamom for a warm, aromatic twist.</p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Serve on a beautiful platter, dusted with additional cinnamon sugar or drizzled with glaze. Pair with tea or a sparkling beverage for an elegant touch.</p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For dietary needs, consider using gluten-free crescent rolls. You can also substitute cinnamon with freshly grated nutmeg or a splash of orange zest for a unique flavor.</p>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the final plated dish or variation.",
+                "url": "flaky-crescent-roll-cinnamon-twists/images/flaky-crescent-roll-cinnamon-twists_image_3.webp",
+                "fileName": "flaky-crescent-roll-cinnamon-twists_image_3.webp",
+                "type": "main"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Keep the dough chilled for the best texture.</li><li>Layer flavors with additional spices or fillings.</li><li>Monitor baking time closely to prevent overbaking.</li><li>Presentation is key; arrange beautifully for a stunning display.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>Enjoy the process of making these twists and the joy they bring to your table. Cooking is about sharing love and creating memories, so have fun with it!</p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "flaky-crescent-roll-cinnamon-twists_image_1.webp",
+            "filePath": "recipes/flaky-crescent-roll-cinnamon-twists/images/flaky-crescent-roll-cinnamon-twists_image_1.webp",
+            "relativePath": "flaky-crescent-roll-cinnamon-twists/images/flaky-crescent-roll-cinnamon-twists_image_1.webp",
+            "originalUrl": "https://cdn.midjourney.com/3b573b8f-0122-42b4-9cd5-8ba55f15fa9d/0_2.png",
+            "order": 1
+        },
+        {
+            "fileName": "flaky-crescent-roll-cinnamon-twists_image_2.webp",
+            "filePath": "recipes/flaky-crescent-roll-cinnamon-twists/images/flaky-crescent-roll-cinnamon-twists_image_2.webp",
+            "relativePath": "flaky-crescent-roll-cinnamon-twists/images/flaky-crescent-roll-cinnamon-twists_image_2.webp",
+            "originalUrl": "https://cdn.midjourney.com/3b573b8f-0122-42b4-9cd5-8ba55f15fa9d/0_1.png",
+            "order": 2
+        },
+        {
+            "fileName": "flaky-crescent-roll-cinnamon-twists_image_3.webp",
+            "filePath": "recipes/flaky-crescent-roll-cinnamon-twists/images/flaky-crescent-roll-cinnamon-twists_image_3.webp",
+            "relativePath": "flaky-crescent-roll-cinnamon-twists/images/flaky-crescent-roll-cinnamon-twists_image_3.webp",
+            "originalUrl": "https://cdn.midjourney.com/3b573b8f-0122-42b4-9cd5-8ba55f15fa9d/0_0.png",
+            "order": 3
+        },
+        {
+            "fileName": "flaky-crescent-roll-cinnamon-twists_image_4.webp",
+            "filePath": "recipes/flaky-crescent-roll-cinnamon-twists/images/flaky-crescent-roll-cinnamon-twists_image_4.webp",
+            "relativePath": "flaky-crescent-roll-cinnamon-twists/images/flaky-crescent-roll-cinnamon-twists_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/tasty/recipes/flaky-crescent-roll-cinnamon-twists/images/flaky-crescent-roll-cinnamon-twists_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "flaky-crescent-roll-cinnamon-twists_image_1.webp",
+    "image_path": "recipes/flaky-crescent-roll-cinnamon-twists/images/flaky-crescent-roll-cinnamon-twists_image_1.webp",
+    "image_dir": "flaky-crescent-roll-cinnamon-twists/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-09T23:12:01+01:00",
+    "updatedAt": "2025-11-09T23:12:01+01:00"
+}
